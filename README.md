@@ -62,3 +62,9 @@ pip install -r requirements.txt
 python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
+
+
+## Author
+
+**Avanti Deshpande**  
+Python Full Stack Developer | Django | Flask | FastAPI | Angular | React | Learning AI  
