@@ -1,4 +1,4 @@
-# Mini JIRA - Bug Tracker API
+# Mini JIRA - Full Stack Bug Tracking System
 
 A **Mini JIRA clone** built using Django and Django REST Framework.  
 This is a full-featured backend for tracking issues with priorities, statuses, and authenticated user actions.
