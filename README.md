@@ -67,4 +67,3 @@ python manage.py runserver
 ## Author
 
 **Avanti Deshpande**  
-Python Full Stack Developer | Django | Flask | FastAPI | Angular | React | Learning AI  
